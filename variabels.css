@@ -1,0 +1,8 @@
+/* background gradient*/
+:root{
+    --magenta: hsl(293, 100%, 63%);
+    --violet:hsl(264, 100%, 61%);
+    --light-violet:hsl(270, 20%, 96%);
+    --very-dark-violet:hsl(271, 36%, 24%);
+    --very-light-magenta:hsl(289, 100%, 72%);
+}
